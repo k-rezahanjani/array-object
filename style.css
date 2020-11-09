@@ -1,0 +1,17 @@
+* {margin: 0px;}
+#formOfRegister {
+    margin-top: 5px;
+}
+
+#formOfRegister input {
+    margin: 15px;
+    margin-left: 5px;
+}
+
+#formOfRegister .lbl {
+    margin-left: 5px;
+}
+
+#formOfRegister #submitBtn {
+    margin-left: 5px;
+}
